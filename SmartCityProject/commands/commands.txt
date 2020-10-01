@@ -1,0 +1,4 @@
+python trafficCalculator.py -f "dataset/sampleGraph.txt"
+python trafficCalculator.py -b
+python trafficCalculator.py -h
+python trafficCalculator.py --help

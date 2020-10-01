@@ -1,0 +1,27 @@
+    About Us ::      
+
+               ******* Welcome To Smart City Application ********
+
+
+==== In Our App Represent Data Analysis & Solve Problems faced By UK Country To Make The Country More Smarter ...
+
+ By Using Data Mining & Data Analysis Concept & Decision Trees & K-Means & Data Visualization
+ And Solve search Problem of finding shotest path Using 2 Algorithm (UCS & IDA*) (Part Of ARTIFICIAL INTELLIGENCE  ^^) ....
+
+
+The First Tap (Charts Of Smart City)   :: Data Visualization of 45+ Chart of UK Country of All of Its Fields 
+Using Statical Analysis Concept & Support With Central Tendency and Variability...
+And Tool To perform regression analysis ....
+
+The SecondTap (Best Path To Arrive) :: This Is A Solver For Finding the Shortest Path for Virtual map of the state ..
+ taking in account the Traffic Costs in 80 days Predictions that each of the available roads have (based on their traffic levels).
+ The "Solver" implements two algorithms in order to find a solution to the problem:
+
+==UCS: Uniform-Cost Search :: https://algorithmicthoughts.wordpress.com/2012/12/15/artificial-intelligence-uniform-cost-searchucs/
+
+==IDA*: Iterative Deepening A* :: https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search
+
+** Perpered by ::
+ == Amina Ahmed Mohammed.
+ == Dina Abdullah Said.
+ == Habiba Khaled Mohammed.

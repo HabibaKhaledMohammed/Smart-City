@@ -1,0 +1,499 @@
+Results for file: dataset/sampleGraph3.txt
+
+Average Results for this file: 
+	UCS: 104.56875000000002
+	IDA*: 109.66375000000001
+
+
+Average Performance for this file:
+	 UCS:
+		Visited Nodes (Avg): 25.925
+		Execution Time (Avg): 0.009075409173965454
+
+
+
+Average Performance for this file:
+	 IDA*:
+		Visited Nodes (Avg): 557.625
+		Execution Time (Avg): 0.13282903134822846
+
+
+UCS Result for Day 1: 
+	(26, 0.0069959163665771484, 119.7, 123.0, ['Road84e', 'Road149e', 'Road57e', 'Road142e'])
+
+UCS Result for Day 2: 
+	(26, 0.006997346878051758, 102.75, 103.0, ['Road101e', 'Road93e', 'Road145e', 'Road37e'])
+
+UCS Result for Day 3: 
+	(25, 0.011993646621704102, 97.64999999999999, 95.3, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+UCS Result for Day 4: 
+	(27, 0.00899505615234375, 99.05, 97.25, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+UCS Result for Day 5: 
+	(23, 0.009002208709716797, 98.55, 96.3, ['Road101e', 'Road93e', 'Road145e', 'Road17e', 'Road14e'])
+
+UCS Result for Day 6: 
+	(21, 0.010996580123901367, 93.45, 111.5, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+UCS Result for Day 7: 
+	(26, 0.011005878448486328, 102.69999999999999, 102.35, ['Road89e', 'Road86e', 'Road145e', 'Road37e'])
+
+UCS Result for Day 8: 
+	(29, 0.010002613067626953, 102.14999999999999, 123.75, ['Road101e', 'Road93e', 'Road145e', 'Road17e', 'Road14e'])
+
+UCS Result for Day 9: 
+	(28, 0.008999109268188477, 96.39999999999999, 102.55, ['Road89e', 'Road86e', 'Road145e', 'Road47e', 'Road19e', 'Road14e'])
+
+UCS Result for Day 10: 
+	(24, 0.008000612258911133, 102.45, 101.0, ['Road101e', 'Road144e', 'Road36e'])
+
+UCS Result for Day 11: 
+	(25, 0.009004592895507812, 94.6, 99.2, ['Road89e', 'Road86e', 'Road145e', 'Road37e'])
+
+UCS Result for Day 12: 
+	(25, 0.004998922348022461, 119.6, 97.7, ['Road101e', 'Road144e', 'Road36e'])
+
+UCS Result for Day 13: 
+	(28, 0.009009838104248047, 109.25, 102.45, ['Road101e', 'Road144e', 'Road36e'])
+
+UCS Result for Day 14: 
+	(28, 0.008998870849609375, 99.60000000000001, 105.95, ['Road89e', 'Road86e', 'Road145e', 'Road50e', 'Road40e'])
+
+UCS Result for Day 15: 
+	(20, 0.007000923156738281, 99.5, 115.5, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+UCS Result for Day 16: 
+	(25, 0.004991054534912109, 92.5, 94.4, ['Road101e', 'Road93e', 'Road145e', 'Road17e', 'Road14e'])
+
+UCS Result for Day 17: 
+	(30, 0.011999130249023438, 101.4, 119.8, ['Road84e', 'Road149e', 'Road57e', 'Road142e'])
+
+UCS Result for Day 18: 
+	(28, 0.004992485046386719, 111.35, 113.25, ['Road101e', 'Road144e', 'Road36e'])
+
+UCS Result for Day 19: 
+	(25, 0.005003929138183594, 90.9, 97.7, ['Road101e', 'Road144e', 'Road36e'])
+
+UCS Result for Day 20: 
+	(23, 0.009006500244140625, 90.9, 104.35, ['Road101e', 'Road144e', 'Road36e'])
+
+UCS Result for Day 21: 
+	(28, 0.006996631622314453, 108.8, 93.5, ['Road101e', 'Road93e', 'Road145e', 'Road17e', 'Road14e'])
+
+UCS Result for Day 22: 
+	(23, 0.004990100860595703, 95.2, 96.05, ['Road101e', 'Road93e', 'Road145e', 'Road17e', 'Road14e'])
+
+UCS Result for Day 23: 
+	(25, 0.006018400192260742, 92.8, 95.8, ['Road101e', 'Road144e', 'Road36e'])
+
+UCS Result for Day 24: 
+	(26, 0.008010625839233398, 90.9, 109.25, ['Road101e', 'Road144e', 'Road36e'])
+
+UCS Result for Day 25: 
+	(28, 0.00799417495727539, 105.15, 95.4, ['Road89e', 'Road86e', 'Road145e', 'Road37e'])
+
+UCS Result for Day 26: 
+	(28, 0.018996715545654297, 95.5, 97.80000000000001, ['Road84e', 'Road149e', 'Road57e', 'Road142e'])
+
+UCS Result for Day 27: 
+	(28, 0.009003400802612305, 121.5, 107.4, ['Road101e', 'Road93e', 'Road145e', 'Road7e', 'Road6e'])
+
+UCS Result for Day 28: 
+	(26, 0.006995677947998047, 108.9, 111.64999999999999, ['Road89e', 'Road86e', 'Road145e', 'Road50e', 'Road40e'])
+
+UCS Result for Day 29: 
+	(25, 0.009000539779663086, 90.9, 97.7, ['Road101e', 'Road144e', 'Road36e'])
+
+UCS Result for Day 30: 
+	(26, 0.007998466491699219, 92.5, 109.1, ['Road101e', 'Road93e', 'Road145e', 'Road17e', 'Road14e'])
+
+UCS Result for Day 31: 
+	(25, 0.005994081497192383, 102.75, 100.3, ['Road101e', 'Road93e', 'Road145e', 'Road37e'])
+
+UCS Result for Day 32: 
+	(26, 0.0059964656829833984, 111.65, 96.75, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+UCS Result for Day 33: 
+	(26, 0.008007049560546875, 97.7, 121.5, ['Road101e', 'Road144e', 'Road36e'])
+
+UCS Result for Day 34: 
+	(22, 0.012999773025512695, 92.8, 95.8, ['Road101e', 'Road144e', 'Road36e'])
+
+UCS Result for Day 35: 
+	(25, 0.008009672164916992, 91.4, 103.2, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+UCS Result for Day 36: 
+	(28, 0.005008697509765625, 91.4, 107.5, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+UCS Result for Day 37: 
+	(28, 0.008003473281860352, 92.8, 114.0, ['Road101e', 'Road144e', 'Road36e'])
+
+UCS Result for Day 38: 
+	(25, 0.014991998672485352, 92.8, 95.8, ['Road101e', 'Road144e', 'Road36e'])
+
+UCS Result for Day 39: 
+	(27, 0.007002115249633789, 117.9, 124.75, ['Road84e', 'Road149e', 'Road57e', 'Road142e'])
+
+UCS Result for Day 40: 
+	(30, 0.016998767852783203, 95.5, 118.8, ['Road84e', 'Road149e', 'Road57e', 'Road142e'])
+
+UCS Result for Day 41: 
+	(28, 0.019996166229248047, 95.8, 121.5, ['Road101e', 'Road144e', 'Road36e'])
+
+UCS Result for Day 42: 
+	(27, 0.022004127502441406, 95.2, 98.10000000000001, ['Road84e', 'Road149e', 'Road57e', 'Road142e'])
+
+UCS Result for Day 43: 
+	(25, 0.00701141357421875, 108.05, 109.25, ['Road101e', 'Road144e', 'Road36e'])
+
+UCS Result for Day 44: 
+	(27, 0.006000518798828125, 107.9, 91.2, ['Road101e', 'Road93e', 'Road145e', 'Road17e', 'Road14e'])
+
+UCS Result for Day 45: 
+	(26, 0.006006479263305664, 93.7, 103.5, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+UCS Result for Day 46: 
+	(26, 0.005982637405395508, 92.9, 102.05, ['Road89e', 'Road86e', 'Road145e', 'Road37e'])
+
+UCS Result for Day 47: 
+	(26, 0.005997657775878906, 101.3, 109.4, ['Road101e', 'Road93e', 'Road145e', 'Road47e', 'Road19e', 'Road14e'])
+
+UCS Result for Day 48: 
+	(26, 0.009999990463256836, 98.95, 93.7, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+UCS Result for Day 49: 
+	(29, 0.011009693145751953, 102.75, 108.25, ['Road101e', 'Road93e', 'Road145e', 'Road37e'])
+
+UCS Result for Day 50: 
+	(26, 0.010008096694946289, 92.3, 107.8, ['Road101e', 'Road93e', 'Road145e', 'Road17e', 'Road14e'])
+
+UCS Result for Day 51: 
+	(24, 0.009989738464355469, 104.35, 107.35, ['Road101e', 'Road144e', 'Road36e'])
+
+UCS Result for Day 52: 
+	(27, 0.010994434356689453, 92.8, 107.35, ['Road101e', 'Road144e', 'Road36e'])
+
+UCS Result for Day 53: 
+	(25, 0.007003307342529297, 100.7, 102.3, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+UCS Result for Day 54: 
+	(25, 0.005017995834350586, 97.85, 109.5, ['Road101e', 'Road93e', 'Road145e', 'Road17e', 'Road14e'])
+
+UCS Result for Day 55: 
+	(23, 0.005988597869873047, 121.5, 90.9, ['Road101e', 'Road144e', 'Road36e'])
+
+UCS Result for Day 56: 
+	(23, 0.006007671356201172, 121.5, 102.45, ['Road101e', 'Road144e', 'Road36e'])
+
+UCS Result for Day 57: 
+	(26, 0.012996435165405273, 97.7, 119.6, ['Road101e', 'Road144e', 'Road36e'])
+
+UCS Result for Day 58: 
+	(26, 0.00899505615234375, 100.05000000000001, 103.0, ['Road101e', 'Road93e', 'Road145e', 'Road37e'])
+
+UCS Result for Day 59: 
+	(27, 0.015996456146240234, 104.95, 111.3, ['Road89e', 'Road86e', 'Road145e', 'Road50e', 'Road40e'])
+
+UCS Result for Day 60: 
+	(26, 0.008999824523925781, 106.35, 112.0, ['Road101e', 'Road93e', 'Road145e', 'Road37e'])
+
+UCS Result for Day 61: 
+	(25, 0.007997512817382812, 94.6, 105.05, ['Road101e', 'Road93e', 'Road145e', 'Road37e'])
+
+UCS Result for Day 62: 
+	(28, 0.01999664306640625, 98.80000000000001, 96.95, ['Road84e', 'Road149e', 'Road57e', 'Road142e'])
+
+UCS Result for Day 63: 
+	(26, 0.0059986114501953125, 102.55, 105.2, ['Road101e', 'Road93e', 'Road145e', 'Road50e', 'Road40e'])
+
+UCS Result for Day 64: 
+	(25, 0.014983654022216797, 109.95, 101.8, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+UCS Result for Day 65: 
+	(27, 0.007006168365478516, 122.15, 100.55000000000001, ['Road84e', 'Road149e', 'Road57e', 'Road142e'])
+
+UCS Result for Day 66: 
+	(28, 0.008997678756713867, 95.8, 109.95, ['Road101e', 'Road144e', 'Road36e'])
+
+UCS Result for Day 67: 
+	(26, 0.010000944137573242, 103.05, 98.2, ['Road101e', 'Road93e', 'Road145e', 'Road50e', 'Road40e'])
+
+UCS Result for Day 68: 
+	(28, 0.007002115249633789, 98.95, 93.7, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+UCS Result for Day 69: 
+	(23, 0.011999130249023438, 104.35, 99.1, ['Road101e', 'Road144e', 'Road36e'])
+
+UCS Result for Day 70: 
+	(22, 0.007998228073120117, 91.80000000000001, 99.3, ['Road89e', 'Road86e', 'Road145e', 'Road37e'])
+
+UCS Result for Day 71: 
+	(27, 0.01799798011779785, 91.0, 115.5, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+UCS Result for Day 72: 
+	(30, 0.006002902984619141, 106.5, 97.9, ['Road89e', 'Road86e', 'Road145e', 'Road50e', 'Road40e'])
+
+UCS Result for Day 73: 
+	(22, 0.00699615478515625, 92.7, 96.45, ['Road101e', 'Road93e', 'Road145e', 'Road17e', 'Road14e'])
+
+UCS Result for Day 74: 
+	(24, 0.007010221481323242, 95.4, 105.05, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+UCS Result for Day 75: 
+	(24, 0.004999399185180664, 108.05, 95.8, ['Road101e', 'Road144e', 'Road36e'])
+
+UCS Result for Day 76: 
+	(26, 0.005013465881347656, 96.39999999999999, 98.65, ['Road89e', 'Road86e', 'Road145e', 'Road47e', 'Road19e', 'Road14e'])
+
+UCS Result for Day 77: 
+	(28, 0.00900578498840332, 97.5, 113.65, ['Road89e', 'Road86e', 'Road145e', 'Road47e', 'Road19e', 'Road14e'])
+
+UCS Result for Day 78: 
+	(26, 0.007001399993896484, 101.15, 106.3, ['Road89e', 'Road86e', 'Road145e', 'Road37e'])
+
+UCS Result for Day 79: 
+	(27, 0.011003494262695312, 94.5, 104.3, ['Road84e', 'Road149e', 'Road57e', 'Road142e'])
+
+UCS Result for Day 80: 
+	(27, 0.006002902984619141, 102.45, 113.25, ['Road101e', 'Road144e', 'Road36e'])
+
+IDA* Result for Day 1: 
+	(514, 0.11699604988098145, 107.30000000000001, 120.6, ['Road89e', 'Road86e', 'Road145e', 'Road7e', 'Road5e', 'Road30e'])
+
+IDA* Result for Day 2: 
+	(963, 0.21099543571472168, 102.25, 107.65, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+IDA* Result for Day 3: 
+	(491, 0.10599851608276367, 98.0, 95.3, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+IDA* Result for Day 4: 
+	(509, 0.12299704551696777, 107.20000000000002, 108.30000000000001, ['Road89e', 'Road86e', 'Road145e', 'Road7e', 'Road6e'])
+
+IDA* Result for Day 5: 
+	(284, 0.06999707221984863, 100.7, 95.3, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+IDA* Result for Day 6: 
+	(726, 0.15899395942687988, 89.7, 111.5, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+IDA* Result for Day 7: 
+	(277, 0.050994873046875, 100.55000000000001, 125.3, ['Road84e', 'Road149e', 'Road57e', 'Road142e'])
+
+IDA* Result for Day 8: 
+	(342, 0.0749979019165039, 113.3, 101.4, ['Road84e', 'Road149e', 'Road57e', 'Road142e'])
+
+IDA* Result for Day 9: 
+	(424, 0.09700202941894531, 104.25, 97.15, ['Road101e', 'Road93e', 'Road145e', 'Road17e', 'Road14e'])
+
+IDA* Result for Day 10: 
+	(450, 0.10699772834777832, 112.50000000000001, 142.0, ['Road84e', 'Road149e', 'Road55e', 'Road142e'])
+
+IDA* Result for Day 11: 
+	(302, 0.07399797439575195, 105.45, 103.2, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+IDA* Result for Day 12: 
+	(493, 0.10500669479370117, 97.3, 95.3, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+IDA* Result for Day 13: 
+	(765, 0.18199920654296875, 99.2, 105.35, ['Road101e', 'Road93e', 'Road145e', 'Road50e', 'Road40e'])
+
+IDA* Result for Day 14: 
+	(354, 0.07300400733947754, 106.8, 102.4, ['Road84e', 'Road149e', 'Road57e', 'Road142e'])
+
+IDA* Result for Day 15: 
+	(490, 0.11300539970397949, 99.5, 115.5, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+IDA* Result for Day 16: 
+	(610, 0.13999485969543457, 108.0, 110.1, ['Road89e', 'Road86e', 'Road145e', 'Road7e', 'Road5e', 'Road31e'])
+
+IDA* Result for Day 17: 
+	(424, 0.09399747848510742, 103.15, 119.8, ['Road84e', 'Road149e', 'Road57e', 'Road142e'])
+
+IDA* Result for Day 18: 
+	(650, 0.20000481605529785, 94.2, 113.25, ['Road101e', 'Road144e', 'Road36e'])
+
+IDA* Result for Day 19: 
+	(288, 0.05999469757080078, 95.5, 97.80000000000001, ['Road84e', 'Road149e', 'Road57e', 'Road142e'])
+
+IDA* Result for Day 20: 
+	(1168, 0.23099851608276367, 101.65, 107.0, ['Road101e', 'Road93e', 'Road145e', 'Road17e', 'Road14e'])
+
+IDA* Result for Day 21: 
+	(490, 0.139998197555542, 104.5, 112.4, ['Road89e', 'Road86e', 'Road145e', 'Road7e', 'Road5e', 'Road30e'])
+
+IDA* Result for Day 22: 
+	(1308, 0.29700326919555664, 108.0, 117.05, ['Road101e', 'Road93e', 'Road145e', 'Road7e', 'Road6e'])
+
+IDA* Result for Day 23: 
+	(1027, 0.2279832363128662, 92.5, 100.8, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+IDA* Result for Day 24: 
+	(1870, 0.44399547576904297, 101.60000000000001, 113.6, ['Road89e', 'Road86e', 'Road145e', 'Road50e', 'Road20e', 'Road14e'])
+
+IDA* Result for Day 25: 
+	(427, 0.11499929428100586, 98, 95.65, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+IDA* Result for Day 26: 
+	(287, 0.07199859619140625, 95.5, 97.80000000000001, ['Road84e', 'Road149e', 'Road57e', 'Road142e'])
+
+IDA* Result for Day 27: 
+	(274, 0.06997227668762207, 92.5, 100.8, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+IDA* Result for Day 28: 
+	(268, 0.06000185012817383, 105, 103.60000000000001, ['Road84e', 'Road149e', 'Road57e', 'Road142e'])
+
+IDA* Result for Day 29: 
+	(371, 0.08599281311035156, 114.3, 120.8, ['Road84e', 'Road149e', 'Road61e', 'Road61e', 'Road57e', 'Road142e'])
+
+IDA* Result for Day 30: 
+	(559, 0.12899184226989746, 93.6, 104.7, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+IDA* Result for Day 31: 
+	(725, 0.20099806785583496, 102.35, 98.35, ['Road101e', 'Road93e', 'Road145e', 'Road17e', 'Road14e'])
+
+IDA* Result for Day 32: 
+	(279, 0.06299662590026855, 104.0, 113.25, ['Road84e', 'Road149e', 'Road57e', 'Road142e'])
+
+IDA* Result for Day 33: 
+	(547, 0.13899946212768555, 101.30000000000001, 94.5, ['Road84e', 'Road149e', 'Road57e', 'Road142e'])
+
+IDA* Result for Day 34: 
+	(832, 0.19699978828430176, 103.9, 94.55, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+IDA* Result for Day 35: 
+	(727, 0.16800236701965332, 92.8, 107.35, ['Road101e', 'Road144e', 'Road36e'])
+
+IDA* Result for Day 36: 
+	(258, 0.05200457572937012, 104.9, 118.8, ['Road84e', 'Road149e', 'Road57e', 'Road142e'])
+
+IDA* Result for Day 37: 
+	(532, 0.13804960250854492, 98.0, 122.25, ['Road84e', 'Road149e', 'Road57e', 'Road142e'])
+
+IDA* Result for Day 38: 
+	(280, 0.07596492767333984, 98.80000000000001, 116.2, ['Road84e', 'Road149e', 'Road57e', 'Road142e'])
+
+IDA* Result for Day 39: 
+	(887, 0.2755265235900879, 97.95, 124.75, ['Road84e', 'Road149e', 'Road57e', 'Road142e'])
+
+IDA* Result for Day 40: 
+	(370, 0.1789999008178711, 108.1, 131.39999999999998, ['Road84e', 'Road149e', 'Road57e', 'Road57e', 'Road57e', 'Road142e'])
+
+IDA* Result for Day 41: 
+	(293, 0.08602213859558105, 100.75, 97.25, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+IDA* Result for Day 42: 
+	(296, 0.09998774528503418, 114.7, 112.50000000000001, ['Road84e', 'Road149e', 'Road55e', 'Road142e'])
+
+IDA* Result for Day 43: 
+	(607, 0.1719968318939209, 105.30000000000001, 107.80000000000001, ['Road84e', 'Road149e', 'Road57e', 'Road142e'])
+
+IDA* Result for Day 44: 
+	(726, 0.1730024814605713, 100.35, 103.6, ['Road89e', 'Road86e', 'Road145e', 'Road47e', 'Road19e', 'Road14e'])
+
+IDA* Result for Day 45: 
+	(257, 0.057999610900878906, 105, 109.8, ['Road84e', 'Road149e', 'Road57e', 'Road142e'])
+
+IDA* Result for Day 46: 
+	(346, 0.06799769401550293, 107.5, 128.8, ['Road84e', 'Road149e', 'Road57e', 'Road142e'])
+
+IDA* Result for Day 47: 
+	(1241, 0.27500081062316895, 102.4, 122.3, ['Road84e', 'Road149e', 'Road57e', 'Road142e'])
+
+IDA* Result for Day 48: 
+	(271, 0.05599641799926758, 109.9, 113.80000000000001, ['Road84e', 'Road149e', 'Road55e', 'Road142e'])
+
+IDA* Result for Day 49: 
+	(491, 0.09499239921569824, 95.2, 108.75, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+IDA* Result for Day 50: 
+	(293, 0.06397390365600586, 90.9, 97.7, ['Road101e', 'Road144e', 'Road36e'])
+
+IDA* Result for Day 51: 
+	(316, 0.06499695777893066, 92.8, 107.35, ['Road101e', 'Road144e', 'Road36e'])
+
+IDA* Result for Day 52: 
+	(427, 0.08800411224365234, 91.4, 99.05, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+IDA* Result for Day 53: 
+	(519, 0.11799788475036621, 93.7, 101.05, ['Road101e', 'Road93e', 'Road145e', 'Road17e', 'Road14e'])
+
+IDA* Result for Day 54: 
+	(471, 0.12100076675415039, 98.2, 102.35, ['Road89e', 'Road86e', 'Road145e', 'Road37e'])
+
+IDA* Result for Day 55: 
+	(267, 0.05800986289978027, 92.5, 114.5, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+IDA* Result for Day 56: 
+	(345, 0.08898806571960449, 103.5, 117.10000000000001, ['Road89e', 'Road86e', 'Road145e', 'Road7e', 'Road5e', 'Road30e'])
+
+IDA* Result for Day 57: 
+	(479, 0.10799598693847656, 107.89999999999999, 126.7, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road19e', 'Road19e', 'Road14e'])
+
+IDA* Result for Day 58: 
+	(380, 0.09399890899658203, 116.2, 131.9, ['Road84e', 'Road149e', 'Road57e', 'Road57e', 'Road57e', 'Road142e'])
+
+IDA* Result for Day 59: 
+	(246, 0.04999136924743652, 106.65, 120.5, ['Road84e', 'Road149e', 'Road57e', 'Road142e'])
+
+IDA* Result for Day 60: 
+	(402, 0.08498477935791016, 98.7, 121.25, ['Road84e', 'Road149e', 'Road57e', 'Road142e'])
+
+IDA* Result for Day 61: 
+	(569, 0.13999700546264648, 95.69999999999999, 109.05, ['Road89e', 'Road86e', 'Road145e', 'Road37e'])
+
+IDA* Result for Day 62: 
+	(1782, 0.43798375129699707, 95.4, 113.4, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+IDA* Result for Day 63: 
+	(1204, 0.2869892120361328, 95.89999999999999, 105.2, ['Road101e', 'Road93e', 'Road145e', 'Road50e', 'Road40e'])
+
+IDA* Result for Day 64: 
+	(653, 0.138993501663208, 108.30000000000001, 109.15, ['Road89e', 'Road86e', 'Road145e', 'Road7e', 'Road6e'])
+
+IDA* Result for Day 65: 
+	(554, 0.12198209762573242, 90.89999999999999, 93.8, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+IDA* Result for Day 66: 
+	(542, 0.12799787521362305, 95.8, 109.95, ['Road101e', 'Road144e', 'Road36e'])
+
+IDA* Result for Day 67: 
+	(382, 0.07599663734436035, 102.4, 126.3, ['Road84e', 'Road149e', 'Road57e', 'Road142e'])
+
+IDA* Result for Day 68: 
+	(359, 0.08002066612243652, 113.55000000000001, 129.8, ['Road84e', 'Road149e', 'Road57e', 'Road57e', 'Road57e', 'Road142e'])
+
+IDA* Result for Day 69: 
+	(280, 0.07800436019897461, 97.10000000000001, 119.65, ['Road84e', 'Road149e', 'Road57e', 'Road142e'])
+
+IDA* Result for Day 70: 
+	(892, 0.1920013427734375, 99.4, 98.05, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+IDA* Result for Day 71: 
+	(262, 0.07700085639953613, 110.35, 131.0, ['Road89e', 'Road86e', 'Road145e', 'Road7e', 'Road0e', 'Road14e'])
+
+IDA* Result for Day 72: 
+	(423, 0.10000252723693848, 101.75, 97.25, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+IDA* Result for Day 73: 
+	(638, 0.16300034523010254, 106.0, 99.1, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
+
+IDA* Result for Day 74: 
+	(648, 0.1349785327911377, 103.3, 97.95, ['Road84e', 'Road149e', 'Road57e', 'Road142e'])
+
+IDA* Result for Day 75: 
+	(717, 0.17999935150146484, 97.55, 95.8, ['Road101e', 'Road144e', 'Road36e'])
+
+IDA* Result for Day 76: 
+	(596, 0.12198233604431152, 98.75, 99.05, ['Road101e', 'Road93e', 'Road145e', 'Road17e', 'Road14e'])
+
+IDA* Result for Day 77: 
+	(277, 0.06700015068054199, 116.10000000000001, 120.0, ['Road84e', 'Road149e', 'Road55e', 'Road142e'])
+
+IDA* Result for Day 78: 
+	(615, 0.1439969539642334, 110.0, 115.4, ['Road89e', 'Road86e', 'Road145e', 'Road7e', 'Road6e'])
+
+IDA* Result for Day 79: 
+	(1136, 0.26099681854248047, 92.8, 99.1, ['Road101e', 'Road144e', 'Road36e'])
+
+IDA* Result for Day 80: 
+	(566, 0.15700650215148926, 96.9, 97.25, ['Road89e', 'Road86e', 'Road145e', 'Road17e', 'Road14e'])
