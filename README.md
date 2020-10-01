@@ -42,8 +42,8 @@ Shown different paths ex. (path1,path2,....) as virtual map and the solution.
 
 # PROCEDURE
  To Run The Program :
-  -	 Using Python v3.5+ & Pycharm v2018.1+ & Command prompt.
-  -	 After installation. you need To install some python packages to avoid all the     errors. From Command prompt  (by Command "pip install <PackageName>)
+  +	 Using Python v3.5+ & Pycharm v2018.1+ & Command prompt.
+  +	 After installation. you need To install some python packages to avoid all the     errors. From Command prompt  (by Command "pip install <PackageName>)
    + packages list :<br/>
      ★	 PyQt5 <br/>
      ★	 ip <br/>
@@ -66,10 +66,10 @@ Shown different paths ex. (path1,path2,....) as virtual map and the solution.
      ★	 sklearn <br/>
      ★	 squarify <br/>
      ★	 statsmodels <br/>
- -	 Then download the .Rar project and extract it. 
- -  Then Download Data and Add to The Folder Name SmartCityProject from that link: https://drive.google.com/drive/folders/1OyQYtQc4RSVzKsTw4zUR2ELzAAyBO4K7?usp=sharing
- -  and open pycharm & go to main    Menu options click on file -> open then choose the project folder  
- -	 From (ClassMainQT.py) run the program.
+ +	 Then download the .Rar project and extract it. 
+ +  Then Download Data and Add to The Folder Name SmartCityProject from that link: https://drive.google.com/drive/folders/1OyQYtQc4RSVzKsTw4zUR2ELzAAyBO4K7?usp=sharing
+ +  and open pycharm & go to main    Menu options click on file -> open then choose the project folder  
+ +	 From (ClassMainQT.py) run the program.
 
 # Program Illustration :
  1.	Click get start to open Application.
