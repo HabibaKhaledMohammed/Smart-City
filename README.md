@@ -44,28 +44,28 @@ Shown different paths ex. (path1,path2,....) as virtual map and the solution.
  To Run The Program :
   +	 Using Python v3.5+ & Pycharm v2018.1+ & Command prompt.
   +	 After installation. you need To install some python packages to avoid all the     errors. From Command prompt  (by Command "pip install <PackageName>)
-    + packages list :<br/>
-     ★	 PyQt5 <br/>
-     ★	 ip <br/>
-     ★	 calmap <br/>
-     ★	 cycler <br/>
-     ★	 joypy <br/>
-     ★	 kiwisolver <br/>
-     ★	 matplotlib <br/>
-     ★	 numpy <br/>
-     ★	 pandas <br/>
-     ★	 patsy <br/>
-     ★	 pyparsing <br/>
-     ★	 pytz <br/>
-     ★	 pywaffle <br/>
-     ★	 scikit-learn <br/>
-     ★	 scipy <br/>
-     ★	 seaborn <br/>
-     ★	 setuptools <br/>
-     ★	 six <br/>
-     ★	 sklearn <br/>
-     ★	 squarify <br/>
-     ★	 statsmodels <br/>
+     + packages list :<br/>
+      ★	 PyQt5 <br/>
+      ★	 ip <br/>
+      ★	 calmap <br/>
+      ★	 cycler <br/>
+      ★	 joypy <br/>
+      ★	 kiwisolver <br/>
+      ★	 matplotlib <br/>
+      ★	 numpy <br/>
+      ★	 pandas <br/>
+      ★	 patsy <br/>
+      ★	 pyparsing <br/>
+      ★	 pytz <br/>
+      ★	 pywaffle <br/>
+      ★	 scikit-learn <br/>
+      ★	 scipy <br/>
+      ★	 seaborn <br/>
+      ★	 setuptools <br/>
+      ★	 six <br/>
+      ★	 sklearn <br/>
+      ★	 squarify <br/>
+      ★	 statsmodels <br/>
  +	 Then download the .Rar project and extract it. 
  +  Then Download Data and Add to The Folder Name SmartCityProject from that link: https://drive.google.com/drive/folders/1OyQYtQc4RSVzKsTw4zUR2ELzAAyBO4K7?usp=sharing
  +  and open pycharm & go to main    Menu options click on file -> open then choose the project folder  
