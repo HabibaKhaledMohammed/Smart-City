@@ -77,7 +77,7 @@ Shown different paths ex. (path1,path2,....) as virtual map and the solution.
  3.	In charts click on any button to see its graph. 
  4.	In best place to see path with picture and details of path “ you can select any path from 6 paths to see picture of a path and click show way to know this way is empty or heavy and show road in any path and predict what is road will be to 80 days to show that you must select path from 6.
 
-# Note:
+# Fast Way:
 -	To Run The Algorithm Only you need to go to project file and open (Find Path Folder). And Write in path ribbon “cmd” .
 -	 Then write “python trafficCalculator.py -f “dataset/[The Graph name]”.
 # RESULT
